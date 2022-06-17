@@ -1,0 +1,17 @@
+.center {
+    text-align: center;
+}
+.inside {
+    list-style-position: inside;
+}
+
+h1 {
+    color:red;
+}
+h2 {
+    color:purple;
+}
+   
+h3 {
+    color:yellow;
+}
